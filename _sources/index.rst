@@ -1,15 +1,15 @@
 ================
-AgileX Scout 2.0
+AgileX SCOUT 2.0
 ================
 
 .. image:: _images/scout_20.png
     :width: 400px
     :align: center
 
-The AgileX SCOUT 2.0 mobile robot platform is designed to be the base of your industrial robotic
-application. With low energy consumption, long battery life, a compact but strong frame, and
-extensible software interfaces, SCOUT 2.0 is ready to handle whatever challenges you throw at it.
-SCOUT 2.0 can work in outdoor and indoor environments with its powerful cooling module and
+The AgileX Robotics SCOUT 2.0 mobile robot platform is designed to be the base of your industrial
+robotic application. With low energy consumption, long battery life, a compact but strong frame,
+and extensible software interfaces, SCOUT 2.0 is ready to handle whatever challenges you throw at
+it. SCOUT 2.0 can work in outdoor and indoor environments with its powerful cooling module and
 real-time temperature monitoring. Slide rails on top of the mobile robot allow for easy
 installation of modular hardware packages and sensors. An open-source communication standard and
 software packages based on ROS make it easy to develop your application. SCOUT 2.0 is a
