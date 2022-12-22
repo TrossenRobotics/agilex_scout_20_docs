@@ -68,7 +68,7 @@ html_theme = 'sphinx_rtd_theme'
 html_scaled_image_link = False
 
 # Set the html page title
-html_title = "AgileX Scout 2.0 Documentation"
+html_title = "AgileX SCOUT 2.0 Documentation"
 
 # Activate the bootstrap theme.
 # html_theme_path = ['_themes']
